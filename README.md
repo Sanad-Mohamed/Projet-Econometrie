@@ -19,3 +19,7 @@ Ce dépôt contient un projet réalisé dans le cadre de mon programme de Mastè
 - Courbe de Phillips
 - Autocorrélation des erreurs
 - Test de causalité de Granger
+
+<br>
+
+<i>Le Jupyter notebook de la première partie du projet contient des graphes plotly. Pour les afficher, collez le lien vers le notebook dans http://nbviewer.jupyter.org/ </i>
